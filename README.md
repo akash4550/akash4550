@@ -23,15 +23,11 @@ To make this section look clean and colorful, use badges (e.g., from Shields.io)
 ---
 
 ### 📈 GitHub Stats
-Add dynamic widgets that automatically update your coding metrics. (Replace `akash4550` with your exact handle).
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akash4550&show_icons=true&theme=radial&hide_border=true" alt="Akshay's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash4550&theme=radial&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
----
-
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/akshay-lakwal" target="_blank">
