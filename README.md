@@ -24,11 +24,9 @@ I am a final-year Information Technology Engineering student passionate about bu
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash4550&show_icons=true&theme=radial&hide_border=true" alt="Akshay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=akash4550&show_icons=true&theme=radial&hide_border=true" alt="Akshay's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash4550&theme=radial&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
----
 
 ### 🌐 Connect with Me
 
