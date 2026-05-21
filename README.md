@@ -36,6 +36,4 @@ I am a final-year Information Technology Engineering student passionate about bu
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:lakwalakshay41@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+📧 **Email:** [lakwalakshay41@gmail.com](mailto:lakwalakshay41@gmail.com)
