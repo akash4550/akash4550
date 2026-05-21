@@ -9,7 +9,6 @@ I am a final-year Information Technology Engineering student passionate about bu
 ---
 
 ### 🛠️ Tech Stack & Tools
-To make this section look clean and colorful, use badges (e.g., from Shields.io) instead of a plain bulleted list:
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,6 +27,9 @@ To make this section look clean and colorful, use badges (e.g., from Shields.io)
   <img src="https://github-readme-stats.vercel.app/api?username=akash4550&show_icons=true&theme=radial&hide_border=true" alt="Akshay's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash4550&theme=radial&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
+---
+
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/akshay-lakwal" target="_blank">
