@@ -22,8 +22,6 @@ Tenant isolation is enforced at the schema and repository layer via `organizatio
 **[Blink](https://github.com/akash4550/Blink-Chat-App)** — Real-time chat app using Socket.io for delivery and a JWT httpOnly cookie for REST auth.
 *React, Node.js, Socket.io, MongoDB, JWT*
 
-<img src="https://github.com/user-attachments/assets/cdc85643-a4ac-43be-a817-f33a03efa580" width="560" alt="Blink chat app">
-
 <br>
 
 <details>
