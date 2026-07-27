@@ -1,31 +1,158 @@
-# Hi there, I'm Akshay! 👋
+<h1 align="center">Hi, I'm Akshay 👋</h1>
+<h3 align="center">Full-Stack Developer (MERN) · Applied ML & Computer Vision · Final-Year IT @ I²IT Pune</h3>
 
-### 🚀 About Me
-I am a final-year Information Technology Engineering student passionate about building scalable, production-grade web applications. I love solving real-world problems through clean code and robust system architecture. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+MERN+applications;Exploring+applied+ML+%26+computer+vision;Actively+looking+for+SDE-1+%2F+Full-Stack+roles;Published+researcher+%40+ICT4SD+2026" alt="Typing SVG" />
+</p>
 
-- 🛠️ Currently focusing on advanced full-stack workflows and real-time architectures.
-- ⚡ Fun fact: I am the first person in my family to pursue a career in technology, and I love bringing ideas to life from scratch!
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-#### **AI & Developer Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
+### 🧭 About Me
 
-### 🌐 Connect with Me
+- 🎓 **B.E. Information Technology** graduate, I²IT Pune (SPPU), Class of 2026
+- 💻 Specializing in **full-stack MERN development** and **applied ML / computer vision**
+- 🔬 Co-author on a paper accepted at **ICT4SD 2026 (Springer LNNS)** — a Vision Transformer classifier for Maratha warfield weapons, hitting **91.12% validation accuracy** on a self-published dataset of 1,787 images across 15 categories
+- 🎨 Committee Member & Graphic Designer at **ITSA** (I²IT's IT Student Association)
+- 🎯 Actively interviewing for **SDE-1 / Full-Stack Developer** roles (₹4–8 LPA) — open to **Pune, Mumbai, Bengaluru, and Remote**
+- ⚡ Fun fact: I actually go back and verify my own claims against the codebase before putting them on a resume — you should see the diffs
 
-<a href="https://www.linkedin.com/in/akshay-lakwal" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+---
 
-📧 **Email:** [lakwalakshay41@gmail.com](mailto:lakwalakshay41@gmail.com)
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Backend & Database**
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+**ML / Tools**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Vision_Transformer-FF6F00?style=flat-square&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+**🧠 [AIWorkspace](https://github.com/akash4550/AIWorkspace)**
+A production-grade, multi-tenant enterprise SaaS platform — project management, CRM, and AI tooling on a modular-monolith architecture. Strict per-organization data isolation enforced at the schema and repository layers, Redis-backed BullMQ workers for background jobs, provider-agnostic AI service layer, and a CI pipeline backed by 30+ integration/unit tests.
+`Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Docker`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 [Prescripto](https://github.com/akash4550/Prescripto)**
+Full-stack healthcare appointment booking platform with three separate portals — Patient, Doctor, and Admin — sharing one backend, with Razorpay payment integration.
+`React` `Node.js` `Express` `MongoDB` `Razorpay`
+
+</td>
+<td width="50%" valign="top">
+
+**💬 [Blink](https://github.com/akash4550/Blink-Chat-App)**
+Real-time chat application on the MERN stack with Socket.io for live messaging and cookie-based JWT authentication.
+`React` `Node.js` `Socket.io` `MongoDB` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 [DBT Mitra](https://github.com/akash4550/mahadbt-awareness-portal)**
+Civic-tech portal helping Maharashtra students navigate the MahaDBT scholarship process — scholarship directory, a DB-backed eligibility quiz with scoring, and a student community forum.
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+**📝 [AI Note-Taking App](https://github.com/akash4550/AI-Note-Taking-App)**
+Notes app with Google Gemini-powered summarization, grammar fixes, and auto-tagging, deployed live on Vercel.
+`Next.js` `TypeScript` `Drizzle ORM` `Gemini API`
+[🔗 Live Demo](https://ai-note-taking-app-six.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧾 [SmartBill](https://github.com/akash4550/SmartBill)**
+Full-stack invoicing and billing app with Prisma/PostgreSQL, deployed live on Vercel.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+[🔗 Live Demo](https://smart-bill-theta.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🔍 [Product Explorer](https://github.com/akash4550/product-explorer-assignment)**
+Full-stack web scraper that extracts and serves structured product data through a documented REST API.
+`TypeScript` `Node.js` `Docker` `Swagger`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Other notable repos</b></summary>
+<br>
+
+- **[Mayzax CRM](https://github.com/akash4550/Recruiter_CRM)** — A recruitment/customer-relationship management API with JWT auth, built on Node.js, Express, and PostgreSQL.
+- **[Payment Manager App](https://github.com/akash4550/Payment-Manager-App)** — CRUD reference app pairing an ASP.NET Core Web API with an Angular 16 frontend.
+
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash4550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshay's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash4550&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash4550&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Open to SDE-1 and full-stack developer roles — Pune, Mumbai, Bengaluru, or Remote.</i></p>
