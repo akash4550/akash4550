@@ -1,26 +1,23 @@
 <h1 align="center">Hi, I'm Akshay 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) · Applied ML & Computer Vision · Final-Year IT @ I²IT Pune</h3>
+<h3 align="center">Full-Stack Developer (MERN) · Applied ML & Computer Vision</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+MERN+applications;Exploring+applied+ML+%26+computer+vision;Actively+looking+for+SDE-1+%2F+Full-Stack+roles;Published+researcher+%40+ICT4SD+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+MERN+applications;Multi-tenant+SaaS+architecture;Open+to+SDE-1+%2F+Full-Stack+roles;Published+researcher+%40+ICT4SD+2026" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-- 🎓 **B.E. Information Technology** graduate, I²IT Pune (SPPU), Class of 2026
-- 💻 Specializing in **full-stack MERN development** and **applied ML / computer vision**
-- 🔬 Co-author on a paper accepted at **ICT4SD 2026 (Springer LNNS)** — a Vision Transformer classifier for Maratha warfield weapons, hitting **91.12% validation accuracy** on a self-published dataset of 1,787 images across 15 categories
-- 🎨 Committee Member & Graphic Designer at **ITSA** (I²IT's IT Student Association)
-- 🎯 Actively interviewing for **SDE-1 / Full-Stack Developer** roles (₹4–8 LPA) — open to **Pune, Mumbai, Bengaluru, and Remote**
-- ⚡ Fun fact: I actually go back and verify my own claims against the codebase before putting them on a resume — you should see the diffs
+- 🎓 B.E. Information Technology, I²IT Pune (SPPU), 2026
+- 💻 Full-stack MERN development, with applied ML / computer vision work on the side
+- 🔬 Co-author, **ICT4SD 2026 (Springer LNNS)** — Vision Transformer classifier for Maratha warfield weapons, 91.12% validation accuracy on a self-published 1,787-image dataset
+- 🎯 Open to **SDE-1 / Full-Stack Developer** roles — Pune, Mumbai, Bengaluru, or Remote
 
 ---
 
@@ -139,7 +136,7 @@ Full-stack web scraper that extracts and serves structured product data through 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash4550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshay's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash4550&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=akash4550&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="center">
@@ -148,11 +145,4 @@ Full-stack web scraper that extracts and serves structured product data through 
 
 ---
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Open to SDE-1 and full-stack developer roles — Pune, Mumbai, Bengaluru, or Remote.</i></p>
+<p align="center"><sub>Open to SDE-1 and full-stack developer roles — Pune, Mumbai, Bengaluru, or Remote.</sub></p>
