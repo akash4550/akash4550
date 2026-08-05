@@ -2,31 +2,49 @@
 
 # Akshay Lakwal
 
-### Full-Stack Software Engineer · Backend Engineering · AI-Enabled SaaS
+### Software Engineer · Full-Stack & Backend · AI-Enabled Applications
 
-I build secure, production-oriented web applications with **TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, and cloud infrastructure**.
+I build secure, production-oriented applications using **TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, and practical AI integrations**.
 
 <p>
-  <a href="https://www.linkedin.com/in/akshay-lakwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lakwalakshay41@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/akash4550"><img src="https://img.shields.io/badge/GitHub-akash4550-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/akshay-lakwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://akash4550.github.io/portfolio-website">
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:lakwalakshay41@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/akash4550">
+    <img src="https://img.shields.io/badge/LeetCode-akash4550-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
-**Open to entry-level Software Engineer, Full-Stack, and Backend Developer opportunities.**
+**B.E. Information Technology Graduate, 2026 · Pune, India**
+
+**Open to entry-level Software Engineer, Full-Stack Developer, and Backend Developer opportunities.**
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a **B.E. Information Technology graduate from I²IT Pune, SPPU (Class of 2026)**. My work focuses on practical software engineering: multi-tenant systems, secure APIs, relational data modelling, real-time communication, background processing, automated testing, cloud deployment, and AI-assisted product features.
+I am a **Software Engineer and 2026 Information Technology graduate from I²IT Pune, SPPU** with hands-on experience building multi-tenant SaaS platforms, secure REST APIs, real-time systems, background-processing workflows, and AI-enabled applications.
 
-I enjoy taking projects beyond basic CRUD by adding authorization, tenant isolation, validation, reliability controls, CI/CD, deployment documentation, and honest production-readiness notes.
+My projects go beyond basic CRUD by incorporating:
+
+- Authentication, RBAC, and tenant-level data isolation
+- Relational data modelling, migrations, and validation
+- Real-time communication and background jobs
+- Automated testing, CI/CD, and security analysis
+- Cloud deployment, health checks, and operational documentation
+- OpenAI, Gemini, and computer-vision integrations
 
 ---
 
-## Flagship Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -34,43 +52,45 @@ I enjoy taking projects beyond basic CRUD by adding authorization, tenant isolat
 
 ### [TeamSynch AI](https://github.com/akash4550/TeamSynch-AI)
 
-A multi-tenant SaaS workspace for projects, teams, CRM, documents, analytics, billing, and organization administration.
+A multi-tenant AI-enabled workspace for project management, teams, CRM, documents, analytics, billing, and organization administration.
 
-**Why it stands out**
+**Engineering highlights**
 
 - Organization-scoped data isolation
-- Role and permission-based authorization
-- JWT access and refresh authentication
+- Granular role and permission-based access control
+- JWT access and refresh-token authentication
 - Redis and BullMQ background processing
 - Socket.IO real-time infrastructure
-- Structured logging and operational health checks
-- Automated tests, CI, CodeQL, Docker, and production runbooks
+- Structured logging and readiness checks
+- 400+ automated tests
+- GitHub Actions, CodeQL, Docker, and deployment runbooks
 
 `React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Socket.IO` `Docker`
 
-[Live App](https://teamsynch-ai.netlify.app) · [API Readiness](https://teamsynch-ai.onrender.com/api/v1/system/ready) · [v1.0.0](https://github.com/akash4550/TeamSynch-AI/releases/tag/v1.0.0)
+[Live Application](https://teamsynch-ai.netlify.app) · [API Readiness](https://teamsynch-ai.onrender.com/api/v1/system/ready) · [Release v1.0.0](https://github.com/akash4550/TeamSynch-AI/releases/tag/v1.0.0)
 
 </td>
 <td width="50%" valign="top">
 
 ### [SmartBilling](https://github.com/akash4550/SmartBilling)
 
-A multi-user invoicing platform with tenant-scoped business data, recurring billing, online payments, reminders, and document generation.
+An AI-enabled invoicing platform with tenant-isolated business data, recurring invoices, online payments, reminders, and document generation.
 
-**Why it stands out**
+**Engineering highlights**
 
-- Auth.js credentials authentication with Argon2id
-- Tenant-scoped PostgreSQL operations
-- Branded invoice PDF generation
+- Auth.js credentials authentication
+- Argon2id password hashing
+- Tenant-aware authorization
+- PostgreSQL and Prisma data modelling
+- PDF invoice generation and email delivery
 - Stripe and Razorpay webhook verification
 - Recurring invoice automation
-- Resend email workflows and reminders
-- AI-assisted receipt extraction
-- Public invoice and client portals
+- Rate limiting and validated forms
+- GPT-4o-mini receipt extraction
 
-`Next.js` `TypeScript` `Auth.js` `Prisma` `PostgreSQL` `Stripe` `Razorpay` `OpenAI`
+`Next.js` `React` `TypeScript` `Auth.js` `Prisma` `PostgreSQL` `Stripe` `Razorpay` `OpenAI`
 
-[Live Demo](https://smart-bill-one-liard.vercel.app/login)
+[Live Application](https://smart-bill-one-liard.vercel.app/login)
 
 </td>
 </tr>
@@ -80,40 +100,43 @@ A multi-user invoicing platform with tenant-scoped business data, recurring bill
 
 ### [AI Note-Taking App](https://github.com/akash4550/AI-Note-Taking-App)
 
-A private note workspace with rich-text editing and AI tools for summarization, grammar improvement, and automatic tagging.
+A private, AI-assisted workspace for creating, organizing, searching, and improving rich-text notes.
 
-**Why it stands out**
+**Engineering highlights**
 
-- User-scoped note ownership
+- Authenticated and user-scoped note APIs
 - Rich-text editing with Tiptap
 - Clerk authentication
-- Hono API routing and Zod validation
+- Hono API routing
 - Drizzle ORM with PostgreSQL
-- Google Gemini writing assistance
+- Zod request validation
+- AI summarization and grammar correction
+- Structured AI-generated tag responses
+- Blocked and empty-response handling
 
 `Next.js` `TypeScript` `Clerk` `Hono` `Drizzle` `PostgreSQL` `Gemini` `Tiptap`
 
-[Live Demo](https://ai-note-taking-app-six.vercel.app)
+[Live Application](https://ai-note-taking-app-six.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### [Product Explorer](https://github.com/akash4550/product-explorer-assignment)
+### [Prescripto](https://github.com/akash4550/prescripto)
 
-A full-stack TypeScript application that extracts structured product data with browser automation and exposes it through a documented REST API.
+A healthcare appointment platform with dedicated workflows for patients, doctors, and administrators.
 
-**Why it stands out**
+**Engineering highlights**
 
-- Playwright browser automation
-- NestJS REST API
-- Swagger/OpenAPI documentation
-- Typed request and response models
-- Dockerized frontend and backend
-- Category filtering and live refresh
+- Role-based patient, doctor, and administrator interfaces
+- Doctor discovery and schedule management
+- Appointment booking and cancellation
+- JWT-protected REST APIs
+- Razorpay test-payment integration
+- Cloudinary media uploads
+- MongoDB-backed application data
+- Netlify and Render deployment
 
-`Next.js` `NestJS` `TypeScript` `Playwright` `Swagger` `Docker`
-
-[Live App](https://product-explorer-assign.netlify.app) · [API Docs](https://product-explorer-assignment.onrender.com/api/docs)
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Cloudinary`
 
 </td>
 </tr>
@@ -121,59 +144,91 @@ A full-stack TypeScript application that extracts structured product data with b
 
 ---
 
-## Engineering Focus
+## Engineering Capabilities
 
-| Area | Experience demonstrated in projects |
+| Area | Demonstrated experience |
 |---|---|
-| **Backend and APIs** | REST APIs, modular services, request validation, centralized error handling, background jobs |
-| **Security** | Authentication, HTTP-only cookies, RBAC, permission checks, tenant isolation, rate limiting, webhook verification |
-| **Data** | PostgreSQL, MongoDB, Prisma, Drizzle, relational modelling, migrations, indexes, atomic operations |
-| **Real-time and async** | Socket.IO, Redis, BullMQ, reconnect-aware workflows, asynchronous processing |
-| **Quality** | TypeScript, unit and integration testing, CI/CD, CodeQL, Docker smoke checks |
-| **AI integrations** | OpenAI and Gemini features integrated into practical product workflows |
+| **Backend Development** | REST APIs, modular services, validation, centralized error handling, background jobs |
+| **Authentication and Security** | JWT, Auth.js, Clerk, HTTP-only cookies, RBAC, permission checks, tenant isolation, rate limiting |
+| **Databases** | PostgreSQL, MongoDB, Redis, Prisma, Drizzle, relational modelling, migrations, indexes |
+| **Real-Time and Asynchronous Systems** | Socket.IO, WebSockets, Redis, BullMQ, background processing |
+| **Testing and Quality** | Jest, Vitest, Supertest, automated testing, GitHub Actions, CodeQL, Docker smoke checks |
+| **AI Integrations** | OpenAI API, Google Gemini API, structured outputs, prompt engineering, Vision Transformers |
 | **Deployment** | Netlify, Vercel, Render, Neon, Docker, health checks, environment configuration |
 
 ---
 
-## Core Stack
+## Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,redis,prisma,docker,git,github,python&perline=8" alt="Core technology stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,express,postgres,mongodb,redis,prisma,docker,git,github,aws&perline=8" alt="Akshay Lakwal technical stack" />
 </p>
+
+### Languages
+
+`TypeScript` `JavaScript` `Python` `C++`
+
+### Frontend
+
+`React` `Next.js` `Tailwind CSS` `Radix UI` `React Hook Form` `Zod` `Tiptap`
+
+### Backend and Data
+
+`Node.js` `Express.js` `Hono` `REST APIs` `Socket.IO` `BullMQ` `PostgreSQL` `MongoDB` `Redis` `Prisma` `Drizzle`
+
+### Testing and DevOps
+
+`Jest` `Vitest` `Supertest` `GitHub Actions` `Docker` `CodeQL` `AWS` `Postman`
+
+---
+
+## Research and Publications
+
+### Vision Transformer for Maratha Weaponry Recognition
+
+- Built preprocessing, augmentation, fine-tuning, and evaluation pipelines for a dataset containing **1,787 images across 10 weapon classes**
+- Achieved **91.12% validation accuracy**
+- Evaluated precision, recall, F1-score, AUC, and confusion matrices
+- Converted the trained model to **TensorFlow Lite** for offline Android inference
+- Co-authored research presented at **ICT4SD 2026**
+- Contributed to the **Maratha Weaponry Dataset**, published through IEEE Dataport
+
+`Python` `TensorFlow` `Vision Transformers` `TensorFlow Lite` `OpenCV`
 
 ---
 
 ## Additional Projects
 
-- **[Blink Chat](https://github.com/akash4550/Blink-Chat-App)** — Real-time MERN messaging with Socket.IO, presence, persistent conversations, media sharing, and cookie-based JWT authentication.
-- **[Prescripto](https://github.com/akash4550/prescripto)** — MERN appointment platform with patient, doctor, and administrator workflows, Razorpay test payments, and Cloudinary media management.
-- **[MahaDBT Awareness Portal](https://github.com/akash4550/mahadbt-awareness-portal)** — A social-impact portal providing DBT awareness, eligibility guidance, document checklists, and nearby-resource information.
+- **[Product Explorer](https://github.com/akash4550/product-explorer-assignment)** — Full-stack TypeScript application using Playwright browser automation, NestJS, Swagger/OpenAPI, Next.js, and Docker.
+- **[Blink Chat](https://github.com/akash4550/Blink-Chat-App)** — Real-time MERN messaging application with Socket.IO, presence, persistent conversations, media sharing, and JWT authentication.
+- **[MahaDBT Awareness Portal](https://github.com/akash4550/mahadbt-awareness-portal)** — Social-impact platform providing DBT awareness, eligibility guidance, document checklists, and nearby-resource information.
 
 ---
 
-## Research
+## Currently Strengthening
 
-Co-authored work on **Vision Transformer-based Maratha weapon recognition**, covering transfer learning, model evaluation, confusion-matrix analysis, and mobile-oriented inference.
-
----
-
-## Current Direction
-
-- Scalable backend architecture
-- Advanced PostgreSQL design and optimisation
-- Distributed systems and background processing
-- AI-enabled SaaS applications
+- Backend system design and scalable application architecture
+- Advanced PostgreSQL modelling and query optimization
+- Distributed systems and asynchronous processing
+- AI-enabled product development
 - Cloud deployment, monitoring, and application security
+- Data structures, algorithms, and computer-science fundamentals
 
 ---
 
 <div align="center">
 
-### Let’s Build Something Useful
+## Let’s Connect
 
-I am actively looking for opportunities where I can contribute to real products, learn from experienced engineers, and grow into a strong full-stack or backend engineer.
+I am looking for opportunities where I can contribute to real products, learn from experienced engineers, and grow as a full-stack or backend-focused Software Engineer.
 
-<a href="https://www.linkedin.com/in/akshay-lakwal"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:lakwalakshay41@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/akshay-lakwal">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:lakwalakshay41@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+</p>
 
 </div>
